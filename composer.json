@@ -14,7 +14,7 @@
   ],
   "require": {
     "yiisoft/yii2": ">=2.0",
-    "bower-asset/typeahead.js": "~0.10.5"
+    "bower-asset/typeahead.js": "0.10.*"
   },
   "autoload": {
     "psr-4": {"yiicms\\widgets\\": ""}
