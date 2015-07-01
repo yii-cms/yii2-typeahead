@@ -31,6 +31,6 @@ class TypeaheadAsset extends AssetBundle
      * @inheritdoc
      */
     public $depends = [
-        'common\widgets\typeahead\TypeaheadBootstrapAsset',
+        'yiicms\widgets\TypeaheadBootstrapAsset',
     ];
 }
